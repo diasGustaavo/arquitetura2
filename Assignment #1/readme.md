@@ -2,6 +2,23 @@
 
 Faça um programa para demonstrar as técnicas de otimização de memória cache vistas nas aulas (slides 73-80). Apresente em um arquivo único: 1) código-fonte antes; 2) apresentação de quais otimizações foram realizadas; 3) código fonte após as otimizações; 4) tabela ou gráfico apresentando as melhorias alcançadas com as otimizações. Dica: execute com diferentes tamanho de dados. Quanto maiores as estruturas de dados, mais visível a otimização se torna.
 
+# Instruções de Execução
+
+Para rodar o programa na sua versão otimizada, utilize os comandos:
+
+```
+make otimizado
+./main
+```
+
+Ja para rodar o programa na sua versão padrao, utilize os comandos:
+
+```
+make padrao
+./main
+```
+
+
 # Tempos de execucao
 
 Tempos obtidos com um Apple M2 @ 3.49 GHz 
