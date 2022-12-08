@@ -7,7 +7,6 @@ int programaOtimizado(int arraySize) {
 
     int items[arraySize][arraySize];
     int items2[arraySize][arraySize];
-    int fatorBlocagem = 10;
 
     // CRIACAO
     for(int k = 0; k < arraySize; k++) {
