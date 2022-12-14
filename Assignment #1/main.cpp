@@ -1,4 +1,5 @@
 #include "main.h"
+#include <omp.h>
 
 using namespace std::chrono;
 
